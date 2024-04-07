@@ -1,3 +1,11 @@
+Implemented by: 
+Student Name : MD Suhaib V
+Student ID : au311121205036
+NM ID: C0386B3CA0E171FA1AA495F760EC9E82
+
+Admin username: suhaib
+Admin password: root
+
 # Melodio - Music Streaming Application
 
 Melodio is a modern and intuitive music streaming application that allows users to discover, stream, and enjoy their favorite songs, albums, and artists from anywhere, at any time. With a vast library of music spanning multiple genres and artists, Melodio provides an immersive listening experience tailored to the preferences of each user.
